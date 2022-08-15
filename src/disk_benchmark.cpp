@@ -1,0 +1,5 @@
+
+
+void io_benchmark() {
+  
+}

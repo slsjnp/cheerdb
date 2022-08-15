@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="interface"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="interface">
+				<Option output="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/libinterface.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sj/workspace/cheerdb/cheerdb/inc"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 interface"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="interface/fast">
+				<Option output="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/libinterface.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sj/workspace/cheerdb/cheerdb/inc"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 interface/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sj/workspace/cheerdb/cheerdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/arena.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/city_hash.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/cleanable.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/coding.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/config.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/crc32c.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/engine.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/env.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/fmtlog-inl.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/fmtlog.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/hashtable.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/interface.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/list.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/log_writer.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/model.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/pmemtable.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/random.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/slice.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/slice_transform.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/slot.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/status.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/util.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/wal.cp.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/wal.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/inc/wal_format.h">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/arena.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/coding.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/config.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/crc32c.cc">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/disk_benchmark.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/engine.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/hashtable.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/interface.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/log_writer.cc">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/random.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/slice.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/slot.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/status.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/test_main.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/utils.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/wal.cp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/src/wal.cpp">
+			<Option target="interface"/>
+		</Unit>
+		<Unit filename="/home/sj/workspace/cheerdb/cheerdb/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
